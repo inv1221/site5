@@ -1,0 +1,5 @@
+help file
+
+git init
+
+git add ,
